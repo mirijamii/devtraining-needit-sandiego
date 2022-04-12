@@ -644,7 +644,7 @@
             "targets" : [ {
               "broker" : null,
               "clientScript" : {
-                "sysId" : "28d4ef371b858d10b81fdce7cc4bcb18"
+                "sysId" : "fd2665e51bb68110210996c6b04bcb26"
               },
               "conditional" : null,
               "declarativeAction" : null,
@@ -901,7 +901,7 @@
     "targets" : [ {
       "broker" : null,
       "clientScript" : {
-        "sysId" : "f3c4af371b858d10b81fdce7cc4bcb8c"
+        "sysId" : "512625e51bb68110210996c6b04bcbb8"
       },
       "conditional" : null,
       "declarativeAction" : null,
@@ -1093,7 +1093,7 @@
         "targets" : [ {
           "broker" : null,
           "clientScript" : {
-            "sysId" : "ecd4ef371b858d10b81fdce7cc4bcb32"
+            "sysId" : "f92665e51bb68110210996c6b04bcb36"
           },
           "conditional" : null,
           "declarativeAction" : null,
@@ -1117,7 +1117,7 @@
         "targets" : [ {
           "broker" : null,
           "clientScript" : {
-            "sysId" : "efc4af371b858d10b81fdce7cc4bcb71"
+            "sysId" : "c12625e51bb68110210996c6b04bcb82"
           },
           "conditional" : null,
           "declarativeAction" : null,
@@ -1195,7 +1195,7 @@
         "targets" : [ {
           "broker" : null,
           "clientScript" : {
-            "sysId" : "1cd4af371b858d10b81fdce7cc4bcbc0"
+            "sysId" : "e12665e51bb68110210996c6b04bcb18"
           },
           "conditional" : null,
           "declarativeAction" : null,
@@ -1219,7 +1219,7 @@
         "targets" : [ {
           "broker" : null,
           "clientScript" : {
-            "sysId" : "78d4ef371b858d10b81fdce7cc4bcb51"
+            "sysId" : "c22665e51bb68110210996c6b04bcb59"
           },
           "conditional" : null,
           "declarativeAction" : null,
@@ -1358,7 +1358,7 @@
     "targets" : [ {
       "broker" : null,
       "clientScript" : {
-        "sysId" : "6bc4af371b858d10b81fdce7cc4bcb6d"
+        "sysId" : "c52625e51bb68110210996c6b04bcb7d"
       },
       "conditional" : null,
       "declarativeAction" : null,
@@ -1382,7 +1382,7 @@
     "targets" : [ {
       "broker" : null,
       "clientScript" : {
-        "sysId" : "d4d4af371b858d10b81fdce7cc4bcbb4"
+        "sysId" : "a52665e51bb68110210996c6b04bcb0a"
       },
       "conditional" : null,
       "declarativeAction" : null,
@@ -1507,7 +1507,7 @@
     "targets" : [ {
       "broker" : null,
       "clientScript" : {
-        "sysId" : "ccd4af371b858d10b81fdce7cc4bcb94"
+        "sysId" : "5d2625e51bb68110210996c6b04bcbc1"
       },
       "conditional" : null,
       "declarativeAction" : null,
@@ -1531,7 +1531,7 @@
     "targets" : [ {
       "broker" : null,
       "clientScript" : {
-        "sysId" : "d4d4af371b858d10b81fdce7cc4bcbb4"
+        "sysId" : "a52665e51bb68110210996c6b04bcb0a"
       },
       "conditional" : null,
       "declarativeAction" : null,
@@ -1555,7 +1555,7 @@
     "targets" : [ {
       "broker" : null,
       "clientScript" : {
-        "sysId" : "81d4ef371b858d10b81fdce7cc4bcb86"
+        "sysId" : "5e2665e51bb68110210996c6b04bcbb9"
       },
       "conditional" : null,
       "declarativeAction" : null,
@@ -1616,7 +1616,7 @@
     }, {
       "broker" : null,
       "clientScript" : {
-        "sysId" : "95d4ef371b858d10b81fdce7cc4bcb99"
+        "sysId" : "5a2665e51bb68110210996c6b04bcbcf"
       },
       "conditional" : null,
       "declarativeAction" : null,
@@ -1640,7 +1640,7 @@
     "targets" : [ {
       "broker" : null,
       "clientScript" : {
-        "sysId" : "f3c4af371b858d10b81fdce7cc4bcb77"
+        "sysId" : "4d2625e51bb68110210996c6b04bcba0"
       },
       "conditional" : null,
       "declarativeAction" : null,
@@ -1774,7 +1774,7 @@
     "targets" : [ {
       "broker" : null,
       "clientScript" : {
-        "sysId" : "0dd4ef371b858d10b81fdce7cc4bcb73"
+        "sysId" : "422665e51bb68110210996c6b04bcba5"
       },
       "conditional" : null,
       "declarativeAction" : null,
@@ -1843,7 +1843,7 @@
     "targets" : [ {
       "broker" : null,
       "clientScript" : {
-        "sysId" : "78d4ef371b858d10b81fdce7cc4bcb51"
+        "sysId" : "c22665e51bb68110210996c6b04bcb59"
       },
       "conditional" : null,
       "declarativeAction" : null,
@@ -1898,7 +1898,7 @@
     "targets" : [ {
       "broker" : null,
       "clientScript" : {
-        "sysId" : "34d4ef371b858d10b81fdce7cc4bcb62"
+        "sysId" : "8e2665e51bb68110210996c6b04bcb84"
       },
       "conditional" : null,
       "declarativeAction" : null,
@@ -1933,7 +1933,7 @@
   "sn_uxf_page.NOW_UXF_PAGE#RECORD_LINK_CLICKED" : [ {
     "broker" : null,
     "clientScript" : {
-      "sysId" : "d4d4af371b858d10b81fdce7cc4bcbb4"
+      "sysId" : "a52665e51bb68110210996c6b04bcb0a"
     },
     "conditional" : null,
     "declarativeAction" : null,
@@ -1970,7 +1970,7 @@
   "MACROPONENT_PROPERTY_CHANGED" : [ {
     "broker" : null,
     "clientScript" : {
-      "sysId" : "77c4af371b858d10b81fdce7cc4bcb7d"
+      "sysId" : "592625e51bb68110210996c6b04bcba7"
     },
     "conditional" : null,
     "declarativeAction" : null,
@@ -1981,7 +1981,7 @@
   }, {
     "broker" : null,
     "clientScript" : {
-      "sysId" : "a7c4af371b858d10b81fdce7cc4bcb69"
+      "sysId" : "012625e51bb68110210996c6b04bcb60"
     },
     "conditional" : null,
     "declarativeAction" : null,
@@ -1992,7 +1992,7 @@
   }, {
     "broker" : null,
     "clientScript" : {
-      "sysId" : "78d4ef371b858d10b81fdce7cc4bcb51"
+      "sysId" : "c22665e51bb68110210996c6b04bcb59"
     },
     "conditional" : null,
     "declarativeAction" : null,
@@ -2003,7 +2003,7 @@
   }, {
     "broker" : null,
     "clientScript" : {
-      "sysId" : "40d4af371b858d10b81fdce7cc4bcba9"
+      "sysId" : "e12625e51bb68110210996c6b04bcbf1"
     },
     "conditional" : null,
     "declarativeAction" : null,
@@ -2015,7 +2015,7 @@
   "sn_uib_base_aw.RECORD#CLOSE_MODAL" : [ {
     "broker" : null,
     "clientScript" : {
-      "sysId" : "48d4af371b858d10b81fdce7cc4bcb9e"
+      "sysId" : "592625e51bb68110210996c6b04bcbcc"
     },
     "conditional" : null,
     "declarativeAction" : null,
@@ -2027,7 +2027,7 @@
   "sn_uib_base_aw.RECORD#NAV_ITEM_SELECTED" : [ {
     "broker" : null,
     "clientScript" : {
-      "sysId" : "d4d4af371b858d10b81fdce7cc4bcbb4"
+      "sysId" : "a52665e51bb68110210996c6b04bcb0a"
     },
     "conditional" : null,
     "declarativeAction" : null,
@@ -2076,7 +2076,7 @@
   "sn_uib_base_aw.RECORD#OPEN_MODAL" : [ {
     "broker" : null,
     "clientScript" : {
-      "sysId" : "48d4af371b858d10b81fdce7cc4bcb9e"
+      "sysId" : "592625e51bb68110210996c6b04bcbcc"
     },
     "conditional" : null,
     "declarativeAction" : null,
@@ -2088,7 +2088,7 @@
   "MACROPONENT_READY" : [ {
     "broker" : null,
     "clientScript" : {
-      "sysId" : "77c4af371b858d10b81fdce7cc4bcb84"
+      "sysId" : "552625e51bb68110210996c6b04bcbaf"
     },
     "conditional" : null,
     "declarativeAction" : null,
@@ -2099,7 +2099,7 @@
   }, {
     "broker" : null,
     "clientScript" : {
-      "sysId" : "78d4ef371b858d10b81fdce7cc4bcb51"
+      "sysId" : "c22665e51bb68110210996c6b04bcb59"
     },
     "conditional" : null,
     "declarativeAction" : null,
@@ -2111,7 +2111,7 @@
   "sn_uib_base_aw.RECORD#RELATED_LIST_REFRESH_REQUESTED" : [ {
     "broker" : null,
     "clientScript" : {
-      "sysId" : "6cd4ef371b858d10b81fdce7cc4bcb41"
+      "sysId" : "f52665e51bb68110210996c6b04bcb47"
     },
     "conditional" : null,
     "declarativeAction" : null,
@@ -2123,7 +2123,7 @@
   "MACROPONENT_VIEWPORT_ROUTE_INITIALIZATION_COMPLETED" : [ {
     "broker" : null,
     "clientScript" : {
-      "sysId" : "78d4ef371b858d10b81fdce7cc4bcb51"
+      "sysId" : "c22665e51bb68110210996c6b04bcb59"
     },
     "conditional" : null,
     "declarativeAction" : null,
@@ -2135,7 +2135,7 @@
   "sn_uib_base_aw.RECORD#OPEN_CALL" : [ {
     "broker" : null,
     "clientScript" : {
-      "sysId" : "81d4ef371b858d10b81fdce7cc4bcb86"
+      "sysId" : "5e2665e51bb68110210996c6b04bcbb9"
     },
     "conditional" : null,
     "declarativeAction" : null,
@@ -2209,7 +2209,7 @@
   "disabled" : false
 }, {
   "name" : "table",
-  "label" : "Table",
+  "label" : "table",
   "fieldType" : null,
   "typeMetadata" : null,
   "valueType" : null,
@@ -2553,15 +2553,15 @@
 } ]</state_properties>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-01-21 21:02:43</sys_created_on>
-        <sys_id>57c4eb371b858d10b81fdce7cc4bcb6d</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_created_on>2022-04-11 11:52:53</sys_created_on>
+        <sys_id>812625e51bb68110210996c6b04bcb55</sys_id>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Record</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_ux_macroponent_57c4eb371b858d10b81fdce7cc4bcb6d</sys_update_name>
+        <sys_update_name>sys_ux_macroponent_812625e51bb68110210996c6b04bcb55</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-11 11:57:12</sys_updated_on>
+        <sys_updated_on>2022-04-11 11:57:38</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>
